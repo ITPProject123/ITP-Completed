@@ -3,15 +3,11 @@
 body
 	{
 		font-family: Georgia;
-		/*background-color: #f1f1f1;*/ 
-		background-color: #ccccff;
-
 	}
 
 .header
 	{
 		width: 100%;
-		
 		background-image: url("/Images/h.jpg");
 	}
 
@@ -80,22 +76,7 @@ body
 		border-radius: 10px;
 		border-color: white;
 	}
-	
-.btn-outline-primary{
-	
-		color: white;
-		background-color: #4286f4;
-	
-	}
-	
-.page-footer
-	{
-			background-image: url("/Images/h.jpg");
-			color: white;
-	
-	}	
-
-.glyphicon.glyphicon-ok{
+	.glyphicon.glyphicon-ok{
     color:  #00C851;
 	background-position: 0px 0px;
 }
@@ -107,14 +88,7 @@ body
     color:  #33b5e5;
 }	
 	
-.glyphicon.glyphicon-star{
-	color:#ff4c4c;
-	font-size:10px;
-	margin-left:15px;
 	
-}
-
-
-
+	
 
 	
