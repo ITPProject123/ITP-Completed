@@ -3,12 +3,14 @@
 body
 	{
 		font-family: Georgia;
+		background-color: #f1f1f1; 
+
 	}
 
 .header
 	{
 		width: 100%;
-		background-image: url("/Images/h.jpg");
+		background-color: #5c5d60;
 	}
 
 .navbar
@@ -76,7 +78,22 @@ body
 		border-radius: 10px;
 		border-color: white;
 	}
-	.glyphicon.glyphicon-ok{
+	
+.btn-outline-primary{
+	
+		color: white;
+		background-color: #4286f4;
+	
+	}
+	
+.page-footer
+	{
+	
+			color: white;
+	
+	}	
+
+.glyphicon.glyphicon-ok{
     color:  #00C851;
 	background-position: 0px 0px;
 }
@@ -89,6 +106,4 @@ body
 }	
 	
 	
-	
-
 	
