@@ -8267,4 +8267,3 @@ if ( !noGlobal ) {
 
 return jQuery;
 } );
-
