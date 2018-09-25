@@ -3,13 +3,16 @@
 body
 	{
 		font-family: Georgia;
-		
+		/*background-color: #f1f1f1;*/ 
+		background-color: #ccccff;
+
 	}
 
 .header
 	{
 		width: 100%;
-		background-color: #5c5d60;
+		
+		background-image: url("/Images/h.jpg");
 	}
 
 .navbar
@@ -78,7 +81,21 @@ body
 		border-color: white;
 	}
 	
-	.glyphicon.glyphicon-ok{
+.btn-outline-primary{
+	
+		color: white;
+		background-color: #4286f4;
+	
+	}
+	
+.page-footer
+	{
+			background-image: url("/Images/h.jpg");
+			color: white;
+	
+	}	
+
+.glyphicon.glyphicon-ok{
     color:  #00C851;
 	background-position: 0px 0px;
 }
@@ -88,4 +105,16 @@ body
 }
 .glyphicon.glyphicon-refresh{
     color:  #33b5e5;
+}	
+	
+.glyphicon.glyphicon-star{
+	color:#ff4c4c;
+	font-size:10px;
+	margin-left:15px;
+	
 }
+
+
+
+
+	
